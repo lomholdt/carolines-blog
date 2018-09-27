@@ -1,5 +1,7 @@
 # Carolines Blog
 
+Lavet til Carolines 29 års fødselsdag.
+
 ### How to
 ```
 $ git clone https://github.com/[GITHUB_USERNAME]/[REPO_NAME].git
